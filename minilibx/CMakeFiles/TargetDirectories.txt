@@ -1,0 +1,7 @@
+/home/kcouchma/Documents/mygit/minilibx/CMakeFiles/mlx42.dir
+/home/kcouchma/Documents/mygit/minilibx/CMakeFiles/edit_cache.dir
+/home/kcouchma/Documents/mygit/minilibx/CMakeFiles/rebuild_cache.dir
+/home/kcouchma/Documents/mygit/minilibx/CMakeFiles/list_install_components.dir
+/home/kcouchma/Documents/mygit/minilibx/CMakeFiles/install.dir
+/home/kcouchma/Documents/mygit/minilibx/CMakeFiles/install/local.dir
+/home/kcouchma/Documents/mygit/minilibx/CMakeFiles/install/strip.dir

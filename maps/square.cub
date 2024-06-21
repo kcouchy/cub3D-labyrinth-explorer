@@ -1,0 +1,19 @@
+NO ./assets/mur_yellow.png
+SO ./assets/mur4.png
+WE ./assets/mur_green.png
+EA ./assets/mur_red.png
+
+F 26,32,28
+
+C 51,216,129 
+
+1111111111
+1E00000001
+1110010001
+1000000001
+1111101111
+1111101111
+  11000001
+1110010001
+1000000001
+1111111111

@@ -1,0 +1,6 @@
+*.o
+*/*.o
+*/*.a
+.vscode
+minilibx/CMakeCache.txt
+cub3D
